@@ -1,4 +1,4 @@
-console.log('welcome to excercise 8');
+console.log('welcome  amresh in  git hub reposeroty');
 let a = window; 
 //   alert('this is my laptop'); 
 //  a=prompt(`this is very harmful . type your name`);
