@@ -1,0 +1,15 @@
+console.log('welome tut4');
+const name='mukesh';
+const greeting='good morning';
+console.log(greeting + ' ' + name);
+console.log(name.length);
+console.log(name.indexOf('s'));
+console.log(name.indexOf('p'));
+console.log(name.lastIndexOf('s'));
+console.log(name.endsWith('ahsgs'));
+console.log(name.includes('sbca'));
+console.log(name.substring(2,5));
+console.log(name.indexOf('s'));
+console.log(name.slice(0,3));
+console.log(name.split(''));
+console.log(21);

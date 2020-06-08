@@ -1,0 +1,15 @@
+console.log('welcome to excercise 8');
+let a = window; 
+//   alert('this is my laptop'); 
+//  a=prompt(`this is very harmful . type your name`);
+//  a =confirm('are you sure to delete ');
+//console.log(a);
+a= window.innerHeight;
+console.log(a);
+a=innerWidth;
+a=scrollY;
+a=scrollX;
+a=location;
+a= location.toString;
+a= window.history;
+console.log(a);
